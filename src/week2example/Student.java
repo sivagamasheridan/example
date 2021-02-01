@@ -7,7 +7,7 @@ package week2example;
 
 /**
  * array of objects - ood- encapsulation principle
- * @author srinivsi
+ * @author srinivsi date
  */
 public class Student 
 {
